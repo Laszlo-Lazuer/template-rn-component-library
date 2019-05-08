@@ -24,10 +24,10 @@
   "author": "A. Laszlo Lazuer",
   "license": "MIT",
   "devDependencies": {
-    "metro-react-native-babel-preset": "^0.51.1"
+    "metro-react-native-babel-preset": "^0.54.0"
   },
   "dependencies": {
-    "prop-types": "^15.6.2",
+    "prop-types": "^15.7.2",
     "template-rn-component-library": "../template-rn-component-library/"
   }
 }
