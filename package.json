@@ -1,0 +1,33 @@
+{
+  "name": "template-rn-component-library",
+  "version": "1.0.0",
+  "description": "RN Component Library Template for NPM.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laszlo-Lazuer/template-rn-component-library.git"
+  },
+  "keywords": [
+    "react-native",
+    "react component",
+    "react native component",
+    "react",
+    "react native",
+    "mobile",
+    "ios",
+    "android",
+    "ui"
+  ],
+  "author": "A. Laszlo Lazuer",
+  "license": "MIT",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.51.1"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.2",
+    "template-rn-component-library": "../template-rn-component-library/"
+  }
+}
