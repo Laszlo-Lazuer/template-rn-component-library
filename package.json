@@ -1,6 +1,6 @@
 {
   "name": "template-rn-component-library",
-  "version": "1.0.1",
+  "version": "1.0.22",
   "description": "RN Component Library Template for NPM.",
   "main": "index.js",
   "scripts": {
@@ -27,7 +27,6 @@
     "metro-react-native-babel-preset": "^0.54.0"
   },
   "dependencies": {
-    "prop-types": "^15.7.2",
-    "template-rn-component-library": "../template-rn-component-library/"
+    "prop-types": "^15.7.2"
   }
 }
