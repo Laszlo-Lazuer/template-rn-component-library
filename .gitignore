@@ -2,6 +2,9 @@
 *.log
 npm-debug.log
 
+# Idea
+.idea
+
 # Runtime data
 tmp
 build
